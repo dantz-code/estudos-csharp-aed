@@ -1,0 +1,15 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 5/bin/Debug/net10.0/Prática 5
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 5/bin/Debug/net10.0/Prática 5.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 5/bin/Debug/net10.0/Prática 5.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 5/bin/Debug/net10.0/Prática 5.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 5/bin/Debug/net10.0/Prática 5.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 5/obj/Debug/net10.0/Prática 5.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 5/obj/Debug/net10.0/Prática 5.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 5/obj/Debug/net10.0/Prática 5.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 5/obj/Debug/net10.0/Prática 5.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 5/obj/Debug/net10.0/Prática 5.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 5/obj/Debug/net10.0/Prática 5.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 5/obj/Debug/net10.0/refint/Prática 5.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 5/obj/Debug/net10.0/Prática 5.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 5/obj/Debug/net10.0/Prática 5.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 5/obj/Debug/net10.0/ref/Prática 5.dll
