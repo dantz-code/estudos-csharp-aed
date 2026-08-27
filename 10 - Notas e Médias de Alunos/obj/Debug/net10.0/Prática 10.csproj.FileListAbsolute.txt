@@ -1,0 +1,15 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/10 - Notas e Médias de Alunos/bin/Debug/net10.0/Prática 10
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/10 - Notas e Médias de Alunos/bin/Debug/net10.0/Prática 10.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/10 - Notas e Médias de Alunos/bin/Debug/net10.0/Prática 10.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/10 - Notas e Médias de Alunos/bin/Debug/net10.0/Prática 10.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/10 - Notas e Médias de Alunos/bin/Debug/net10.0/Prática 10.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/10 - Notas e Médias de Alunos/obj/Debug/net10.0/Prática 10.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/10 - Notas e Médias de Alunos/obj/Debug/net10.0/Prática 10.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/10 - Notas e Médias de Alunos/obj/Debug/net10.0/Prática 10.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/10 - Notas e Médias de Alunos/obj/Debug/net10.0/Prática 10.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/10 - Notas e Médias de Alunos/obj/Debug/net10.0/Prática 10.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/10 - Notas e Médias de Alunos/obj/Debug/net10.0/Prática 10.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/10 - Notas e Médias de Alunos/obj/Debug/net10.0/refint/Prática 10.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/10 - Notas e Médias de Alunos/obj/Debug/net10.0/Prática 10.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/10 - Notas e Médias de Alunos/obj/Debug/net10.0/Prática 10.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/10 - Notas e Médias de Alunos/obj/Debug/net10.0/ref/Prática 10.dll

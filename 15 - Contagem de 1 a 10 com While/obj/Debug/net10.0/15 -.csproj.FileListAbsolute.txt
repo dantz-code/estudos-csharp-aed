@@ -1,0 +1,15 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/bin/Debug/net10.0/15 -
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/bin/Debug/net10.0/15 -.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/bin/Debug/net10.0/15 -.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/bin/Debug/net10.0/15 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/bin/Debug/net10.0/15 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/obj/Debug/net10.0/15 -.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/obj/Debug/net10.0/15 -.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/obj/Debug/net10.0/15 -.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/obj/Debug/net10.0/15 -.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/obj/Debug/net10.0/15 -.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/obj/Debug/net10.0/15 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/obj/Debug/net10.0/refint/15 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/obj/Debug/net10.0/15 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/obj/Debug/net10.0/15 -.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/obj/Debug/net10.0/ref/15 -.dll

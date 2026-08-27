@@ -1,0 +1,30 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 8/bin/Debug/net10.0/Prática 8
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 8/bin/Debug/net10.0/Prática 8.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 8/bin/Debug/net10.0/Prática 8.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 8/bin/Debug/net10.0/Prática 8.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 8/bin/Debug/net10.0/Prática 8.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 8/obj/Debug/net10.0/Prática 8.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 8/obj/Debug/net10.0/Prática 8.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 8/obj/Debug/net10.0/Prática 8.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 8/obj/Debug/net10.0/Prática 8.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 8/obj/Debug/net10.0/Prática 8.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 8/obj/Debug/net10.0/Prática 8.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 8/obj/Debug/net10.0/refint/Prática 8.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 8/obj/Debug/net10.0/Prática 8.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 8/obj/Debug/net10.0/Prática 8.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 8/obj/Debug/net10.0/ref/Prática 8.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/08 - Números Perfeitos/bin/Debug/net10.0/Prática 8
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/08 - Números Perfeitos/bin/Debug/net10.0/Prática 8.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/08 - Números Perfeitos/bin/Debug/net10.0/Prática 8.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/08 - Números Perfeitos/bin/Debug/net10.0/Prática 8.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/08 - Números Perfeitos/bin/Debug/net10.0/Prática 8.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/08 - Números Perfeitos/obj/Debug/net10.0/Prática 8.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/08 - Números Perfeitos/obj/Debug/net10.0/Prática 8.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/08 - Números Perfeitos/obj/Debug/net10.0/Prática 8.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/08 - Números Perfeitos/obj/Debug/net10.0/Prática 8.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/08 - Números Perfeitos/obj/Debug/net10.0/Prática 8.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/08 - Números Perfeitos/obj/Debug/net10.0/Prática 8.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/08 - Números Perfeitos/obj/Debug/net10.0/refint/Prática 8.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/08 - Números Perfeitos/obj/Debug/net10.0/Prática 8.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/08 - Números Perfeitos/obj/Debug/net10.0/Prática 8.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/08 - Números Perfeitos/obj/Debug/net10.0/ref/Prática 8.dll

@@ -1,0 +1,30 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 12/bin/Debug/net10.0/Prática 12
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 12/bin/Debug/net10.0/Prática 12.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 12/bin/Debug/net10.0/Prática 12.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 12/bin/Debug/net10.0/Prática 12.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 12/bin/Debug/net10.0/Prática 12.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 12/obj/Debug/net10.0/Prática 12.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 12/obj/Debug/net10.0/Prática 12.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 12/obj/Debug/net10.0/Prática 12.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 12/obj/Debug/net10.0/Prática 12.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 12/obj/Debug/net10.0/Prática 12.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 12/obj/Debug/net10.0/Prática 12.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 12/obj/Debug/net10.0/refint/Prática 12.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 12/obj/Debug/net10.0/Prática 12.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 12/obj/Debug/net10.0/Prática 12.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/Prática 12/obj/Debug/net10.0/ref/Prática 12.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/12 - Cálculo de Fatorial/bin/Debug/net10.0/Prática 12
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/12 - Cálculo de Fatorial/bin/Debug/net10.0/Prática 12.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/12 - Cálculo de Fatorial/bin/Debug/net10.0/Prática 12.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/12 - Cálculo de Fatorial/bin/Debug/net10.0/Prática 12.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/12 - Cálculo de Fatorial/bin/Debug/net10.0/Prática 12.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/12 - Cálculo de Fatorial/obj/Debug/net10.0/Prática 12.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/12 - Cálculo de Fatorial/obj/Debug/net10.0/Prática 12.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/12 - Cálculo de Fatorial/obj/Debug/net10.0/Prática 12.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/12 - Cálculo de Fatorial/obj/Debug/net10.0/Prática 12.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/12 - Cálculo de Fatorial/obj/Debug/net10.0/Prática 12.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/12 - Cálculo de Fatorial/obj/Debug/net10.0/Prática 12.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/12 - Cálculo de Fatorial/obj/Debug/net10.0/refint/Prática 12.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/12 - Cálculo de Fatorial/obj/Debug/net10.0/Prática 12.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/12 - Cálculo de Fatorial/obj/Debug/net10.0/Prática 12.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/12 - Cálculo de Fatorial/obj/Debug/net10.0/ref/Prática 12.dll

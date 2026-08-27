@@ -1,0 +1,15 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/bin/Debug/net10.0/13 - Passagem de Valor por Refêrencia
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/bin/Debug/net10.0/13 - Passagem de Valor por Refêrencia.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/bin/Debug/net10.0/13 - Passagem de Valor por Refêrencia.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/bin/Debug/net10.0/13 - Passagem de Valor por Refêrencia.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/bin/Debug/net10.0/13 - Passagem de Valor por Refêrencia.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/obj/Debug/net10.0/13 - Passagem de Valor por Refêrencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/obj/Debug/net10.0/13 - Passagem de Valor por Refêrencia.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/obj/Debug/net10.0/13 - Passagem de Valor por Refêrencia.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/obj/Debug/net10.0/13 - Passagem de Valor por Refêrencia.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/obj/Debug/net10.0/13 - Passagem de Valor por Refêrencia.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/obj/Debug/net10.0/13 - Passagem de Valor por Refêrencia.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/obj/Debug/net10.0/refint/13 - Passagem de Valor por Refêrencia.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/obj/Debug/net10.0/13 - Passagem de Valor por Refêrencia.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/obj/Debug/net10.0/13 - Passagem de Valor por Refêrencia.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/obj/Debug/net10.0/ref/13 - Passagem de Valor por Refêrencia.dll

@@ -1,0 +1,15 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/09 - Matriz Transposta/bin/Debug/net10.0/Prática 9
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/09 - Matriz Transposta/bin/Debug/net10.0/Prática 9.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/09 - Matriz Transposta/bin/Debug/net10.0/Prática 9.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/09 - Matriz Transposta/bin/Debug/net10.0/Prática 9.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/09 - Matriz Transposta/bin/Debug/net10.0/Prática 9.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/09 - Matriz Transposta/obj/Debug/net10.0/Prática 9.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/09 - Matriz Transposta/obj/Debug/net10.0/Prática 9.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/09 - Matriz Transposta/obj/Debug/net10.0/Prática 9.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/09 - Matriz Transposta/obj/Debug/net10.0/Prática 9.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/09 - Matriz Transposta/obj/Debug/net10.0/Prática 9.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/09 - Matriz Transposta/obj/Debug/net10.0/Prática 9.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/09 - Matriz Transposta/obj/Debug/net10.0/refint/Prática 9.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/09 - Matriz Transposta/obj/Debug/net10.0/Prática 9.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/09 - Matriz Transposta/obj/Debug/net10.0/Prática 9.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/09 - Matriz Transposta/obj/Debug/net10.0/ref/Prática 9.dll

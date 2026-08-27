@@ -1,0 +1,30 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 -/bin/Debug/net10.0/16 -
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 -/bin/Debug/net10.0/16 -.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 -/bin/Debug/net10.0/16 -.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 -/bin/Debug/net10.0/16 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 -/bin/Debug/net10.0/16 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 -/obj/Debug/net10.0/16 -.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 -/obj/Debug/net10.0/16 -.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 -/obj/Debug/net10.0/16 -.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 -/obj/Debug/net10.0/16 -.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 -/obj/Debug/net10.0/16 -.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 -/obj/Debug/net10.0/16 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 -/obj/Debug/net10.0/refint/16 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 -/obj/Debug/net10.0/16 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 -/obj/Debug/net10.0/16 -.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 -/obj/Debug/net10.0/ref/16 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Sorteio Recursivo de Números/bin/Debug/net10.0/16 -
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Sorteio Recursivo de Números/bin/Debug/net10.0/16 -.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Sorteio Recursivo de Números/bin/Debug/net10.0/16 -.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Sorteio Recursivo de Números/bin/Debug/net10.0/16 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Sorteio Recursivo de Números/bin/Debug/net10.0/16 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Sorteio Recursivo de Números/obj/Debug/net10.0/16 -.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Sorteio Recursivo de Números/obj/Debug/net10.0/16 -.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Sorteio Recursivo de Números/obj/Debug/net10.0/16 -.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Sorteio Recursivo de Números/obj/Debug/net10.0/16 -.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Sorteio Recursivo de Números/obj/Debug/net10.0/16 -.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Sorteio Recursivo de Números/obj/Debug/net10.0/16 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Sorteio Recursivo de Números/obj/Debug/net10.0/refint/16 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Sorteio Recursivo de Números/obj/Debug/net10.0/16 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Sorteio Recursivo de Números/obj/Debug/net10.0/16 -.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Sorteio Recursivo de Números/obj/Debug/net10.0/ref/16 -.dll

@@ -1,0 +1,15 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/bin/Debug/net10.0/Prática 11
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/bin/Debug/net10.0/Prática 11.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/bin/Debug/net10.0/Prática 11.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/bin/Debug/net10.0/Prática 11.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/bin/Debug/net10.0/Prática 11.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/obj/Debug/net10.0/Prática 11.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/obj/Debug/net10.0/Prática 11.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/obj/Debug/net10.0/Prática 11.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/obj/Debug/net10.0/Prática 11.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/obj/Debug/net10.0/Prática 11.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/obj/Debug/net10.0/Prática 11.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/obj/Debug/net10.0/refint/Prática 11.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/obj/Debug/net10.0/Prática 11.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/obj/Debug/net10.0/Prática 11.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/obj/Debug/net10.0/ref/Prática 11.dll

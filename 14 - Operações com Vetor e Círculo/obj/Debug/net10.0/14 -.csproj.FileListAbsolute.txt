@@ -1,0 +1,15 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Operações com Vetor e Círculo/bin/Debug/net10.0/14 -
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Operações com Vetor e Círculo/bin/Debug/net10.0/14 -.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Operações com Vetor e Círculo/bin/Debug/net10.0/14 -.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Operações com Vetor e Círculo/bin/Debug/net10.0/14 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Operações com Vetor e Círculo/bin/Debug/net10.0/14 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Operações com Vetor e Círculo/obj/Debug/net10.0/14 -.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Operações com Vetor e Círculo/obj/Debug/net10.0/14 -.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Operações com Vetor e Círculo/obj/Debug/net10.0/14 -.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Operações com Vetor e Círculo/obj/Debug/net10.0/14 -.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Operações com Vetor e Círculo/obj/Debug/net10.0/14 -.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Operações com Vetor e Círculo/obj/Debug/net10.0/14 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Operações com Vetor e Círculo/obj/Debug/net10.0/refint/14 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Operações com Vetor e Círculo/obj/Debug/net10.0/14 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Operações com Vetor e Círculo/obj/Debug/net10.0/14 -.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Operações com Vetor e Círculo/obj/Debug/net10.0/ref/14 -.dll
