@@ -1,0 +1,30 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 -/bin/Debug/net10.0/20 -
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 -/bin/Debug/net10.0/20 -.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 -/bin/Debug/net10.0/20 -.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 -/bin/Debug/net10.0/20 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 -/bin/Debug/net10.0/20 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 -/obj/Debug/net10.0/20 -.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 -/obj/Debug/net10.0/20 -.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 -/obj/Debug/net10.0/20 -.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 -/obj/Debug/net10.0/20 -.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 -/obj/Debug/net10.0/20 -.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 -/obj/Debug/net10.0/20 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 -/obj/Debug/net10.0/refint/20 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 -/obj/Debug/net10.0/20 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 -/obj/Debug/net10.0/20 -.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 -/obj/Debug/net10.0/ref/20 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/bin/Debug/net10.0/20 -
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/bin/Debug/net10.0/20 -.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/bin/Debug/net10.0/20 -.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/bin/Debug/net10.0/20 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/bin/Debug/net10.0/20 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/obj/Debug/net10.0/20 -.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/obj/Debug/net10.0/20 -.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/obj/Debug/net10.0/20 -.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/obj/Debug/net10.0/20 -.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/obj/Debug/net10.0/20 -.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/obj/Debug/net10.0/20 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/obj/Debug/net10.0/refint/20 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/obj/Debug/net10.0/20 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/obj/Debug/net10.0/20 -.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/obj/Debug/net10.0/ref/20 -.dll

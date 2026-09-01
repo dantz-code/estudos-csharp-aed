@@ -1,0 +1,30 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 -/obj/Debug/net10.0/19 -.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 -/obj/Debug/net10.0/19 -.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 -/obj/Debug/net10.0/19 -.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 -/obj/Debug/net10.0/19 -.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 -/obj/Debug/net10.0/19 -.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 -/bin/Debug/net10.0/19 -
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 -/bin/Debug/net10.0/19 -.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 -/bin/Debug/net10.0/19 -.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 -/bin/Debug/net10.0/19 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 -/bin/Debug/net10.0/19 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 -/obj/Debug/net10.0/19 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 -/obj/Debug/net10.0/refint/19 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 -/obj/Debug/net10.0/19 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 -/obj/Debug/net10.0/19 -.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 -/obj/Debug/net10.0/ref/19 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 - Soma Recursiva de 1 a X/bin/Debug/net10.0/19 -
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 - Soma Recursiva de 1 a X/bin/Debug/net10.0/19 -.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 - Soma Recursiva de 1 a X/bin/Debug/net10.0/19 -.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 - Soma Recursiva de 1 a X/bin/Debug/net10.0/19 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 - Soma Recursiva de 1 a X/bin/Debug/net10.0/19 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 - Soma Recursiva de 1 a X/obj/Debug/net10.0/19 -.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 - Soma Recursiva de 1 a X/obj/Debug/net10.0/19 -.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 - Soma Recursiva de 1 a X/obj/Debug/net10.0/19 -.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 - Soma Recursiva de 1 a X/obj/Debug/net10.0/19 -.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 - Soma Recursiva de 1 a X/obj/Debug/net10.0/19 -.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 - Soma Recursiva de 1 a X/obj/Debug/net10.0/19 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 - Soma Recursiva de 1 a X/obj/Debug/net10.0/refint/19 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 - Soma Recursiva de 1 a X/obj/Debug/net10.0/19 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 - Soma Recursiva de 1 a X/obj/Debug/net10.0/19 -.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/19 - Soma Recursiva de 1 a X/obj/Debug/net10.0/ref/19 -.dll

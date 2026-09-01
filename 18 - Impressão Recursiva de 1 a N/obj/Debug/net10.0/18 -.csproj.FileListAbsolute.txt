@@ -1,0 +1,30 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 -/bin/Debug/net10.0/18 -
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 -/bin/Debug/net10.0/18 -.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 -/bin/Debug/net10.0/18 -.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 -/bin/Debug/net10.0/18 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 -/bin/Debug/net10.0/18 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 -/obj/Debug/net10.0/18 -.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 -/obj/Debug/net10.0/18 -.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 -/obj/Debug/net10.0/18 -.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 -/obj/Debug/net10.0/18 -.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 -/obj/Debug/net10.0/18 -.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 -/obj/Debug/net10.0/18 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 -/obj/Debug/net10.0/refint/18 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 -/obj/Debug/net10.0/18 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 -/obj/Debug/net10.0/18 -.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 -/obj/Debug/net10.0/ref/18 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 - Impressão Recursiva de 1 a N/bin/Debug/net10.0/18 -
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 - Impressão Recursiva de 1 a N/bin/Debug/net10.0/18 -.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 - Impressão Recursiva de 1 a N/bin/Debug/net10.0/18 -.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 - Impressão Recursiva de 1 a N/bin/Debug/net10.0/18 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 - Impressão Recursiva de 1 a N/bin/Debug/net10.0/18 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 - Impressão Recursiva de 1 a N/obj/Debug/net10.0/18 -.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 - Impressão Recursiva de 1 a N/obj/Debug/net10.0/18 -.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 - Impressão Recursiva de 1 a N/obj/Debug/net10.0/18 -.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 - Impressão Recursiva de 1 a N/obj/Debug/net10.0/18 -.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 - Impressão Recursiva de 1 a N/obj/Debug/net10.0/18 -.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 - Impressão Recursiva de 1 a N/obj/Debug/net10.0/18 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 - Impressão Recursiva de 1 a N/obj/Debug/net10.0/refint/18 -.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 - Impressão Recursiva de 1 a N/obj/Debug/net10.0/18 -.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 - Impressão Recursiva de 1 a N/obj/Debug/net10.0/18 -.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/18 - Impressão Recursiva de 1 a N/obj/Debug/net10.0/ref/18 -.dll
