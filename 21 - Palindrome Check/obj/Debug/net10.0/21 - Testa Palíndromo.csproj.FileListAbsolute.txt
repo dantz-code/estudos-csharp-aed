@@ -1,0 +1,15 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/bin/Debug/net10.0/21 - Testa Palíndromo
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/bin/Debug/net10.0/21 - Testa Palíndromo.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/bin/Debug/net10.0/21 - Testa Palíndromo.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/bin/Debug/net10.0/21 - Testa Palíndromo.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/bin/Debug/net10.0/21 - Testa Palíndromo.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/obj/Debug/net10.0/21 - Testa Palíndromo.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/obj/Debug/net10.0/21 - Testa Palíndromo.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/obj/Debug/net10.0/21 - Testa Palíndromo.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/obj/Debug/net10.0/21 - Testa Palíndromo.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/obj/Debug/net10.0/21 - Testa Palíndromo.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/obj/Debug/net10.0/21 - Testa Palíndromo.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/obj/Debug/net10.0/refint/21 - Testa Palíndromo.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/obj/Debug/net10.0/21 - Testa Palíndromo.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/obj/Debug/net10.0/21 - Testa Palíndromo.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/obj/Debug/net10.0/ref/21 - Testa Palíndromo.dll

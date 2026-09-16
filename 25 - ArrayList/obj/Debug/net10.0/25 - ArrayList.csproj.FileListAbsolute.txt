@@ -1,0 +1,5 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/25 - ArrayList/obj/Debug/net10.0/25 - ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/25 - ArrayList/obj/Debug/net10.0/25 - ArrayList.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/25 - ArrayList/obj/Debug/net10.0/25 - ArrayList.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/25 - ArrayList/obj/Debug/net10.0/25 - ArrayList.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/25 - ArrayList/obj/Debug/net10.0/25 - ArrayList.sourcelink.json
