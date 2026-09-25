@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/06 - Quadrado da Soma de Números de Quatro Dígitos/Prática 6.csproj": {}
+    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/06 - Square of the Sum of Four-Digit Number Parts/Prática 6.csproj": {}
   },
   "projects": {
-    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/06 - Quadrado da Soma de Números de Quatro Dígitos/Prática 6.csproj": {
+    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/06 - Square of the Sum of Four-Digit Number Parts/Prática 6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/06 - Quadrado da Soma de Números de Quatro Dígitos/Prática 6.csproj",
+        "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/06 - Square of the Sum of Four-Digit Number Parts/Prática 6.csproj",
         "projectName": "Prática 6",
-        "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/06 - Quadrado da Soma de Números de Quatro Dígitos/Prática 6.csproj",
+        "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/06 - Square of the Sum of Four-Digit Number Parts/Prática 6.csproj",
         "packagesPath": "/home/danton/.nuget/packages/",
-        "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/06 - Quadrado da Soma de Números de Quatro Dígitos/obj/",
+        "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/06 - Square of the Sum of Four-Digit Number Parts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/danton/.nuget/NuGet/NuGet.Config"

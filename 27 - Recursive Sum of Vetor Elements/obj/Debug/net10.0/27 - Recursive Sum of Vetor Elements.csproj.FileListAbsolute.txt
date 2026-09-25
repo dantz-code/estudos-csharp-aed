@@ -1,0 +1,15 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/27 - Recursive Sum of Vetor Elements/bin/Debug/net10.0/27 - Recursive Sum of Vetor Elements
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/27 - Recursive Sum of Vetor Elements/bin/Debug/net10.0/27 - Recursive Sum of Vetor Elements.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/27 - Recursive Sum of Vetor Elements/bin/Debug/net10.0/27 - Recursive Sum of Vetor Elements.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/27 - Recursive Sum of Vetor Elements/bin/Debug/net10.0/27 - Recursive Sum of Vetor Elements.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/27 - Recursive Sum of Vetor Elements/bin/Debug/net10.0/27 - Recursive Sum of Vetor Elements.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/27 - Recursive Sum of Vetor Elements/obj/Debug/net10.0/27 - Recursive Sum of Vetor Elements.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/27 - Recursive Sum of Vetor Elements/obj/Debug/net10.0/27 - Recursive Sum of Vetor Elements.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/27 - Recursive Sum of Vetor Elements/obj/Debug/net10.0/27 - Recursive Sum of Vetor Elements.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/27 - Recursive Sum of Vetor Elements/obj/Debug/net10.0/27 - Recursive Sum of Vetor Elements.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/27 - Recursive Sum of Vetor Elements/obj/Debug/net10.0/27 - Recursive Sum of Vetor Elements.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/27 - Recursive Sum of Vetor Elements/obj/Debug/net10.0/27 - Recursive Sum of Vetor Elements.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/27 - Recursive Sum of Vetor Elements/obj/Debug/net10.0/refint/27 - Recursive Sum of Vetor Elements.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/27 - Recursive Sum of Vetor Elements/obj/Debug/net10.0/27 - Recursive Sum of Vetor Elements.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/27 - Recursive Sum of Vetor Elements/obj/Debug/net10.0/27 - Recursive Sum of Vetor Elements.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/27 - Recursive Sum of Vetor Elements/obj/Debug/net10.0/ref/27 - Recursive Sum of Vetor Elements.dll

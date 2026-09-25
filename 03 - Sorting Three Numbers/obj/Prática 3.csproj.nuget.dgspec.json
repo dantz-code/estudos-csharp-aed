@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/03 - Ordenação de Três Números/Prática 3.csproj": {}
+    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/03 - Sorting Three Numbers/Prática 3.csproj": {}
   },
   "projects": {
-    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/03 - Ordenação de Três Números/Prática 3.csproj": {
+    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/03 - Sorting Three Numbers/Prática 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/03 - Ordenação de Três Números/Prática 3.csproj",
+        "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/03 - Sorting Three Numbers/Prática 3.csproj",
         "projectName": "Prática 3",
-        "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/03 - Ordenação de Três Números/Prática 3.csproj",
+        "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/03 - Sorting Three Numbers/Prática 3.csproj",
         "packagesPath": "/home/danton/.nuget/packages/",
-        "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/03 - Ordenação de Três Números/obj/",
+        "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/03 - Sorting Three Numbers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/danton/.nuget/NuGet/NuGet.Config"

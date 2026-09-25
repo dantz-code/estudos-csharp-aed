@@ -1,0 +1,15 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/30 - Recursive Potency/bin/Debug/net10.0/30 - Recursive Potency
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/30 - Recursive Potency/bin/Debug/net10.0/30 - Recursive Potency.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/30 - Recursive Potency/bin/Debug/net10.0/30 - Recursive Potency.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/30 - Recursive Potency/bin/Debug/net10.0/30 - Recursive Potency.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/30 - Recursive Potency/bin/Debug/net10.0/30 - Recursive Potency.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/30 - Recursive Potency/obj/Debug/net10.0/30 - Recursive Potency.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/30 - Recursive Potency/obj/Debug/net10.0/30 - Recursive Potency.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/30 - Recursive Potency/obj/Debug/net10.0/30 - Recursive Potency.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/30 - Recursive Potency/obj/Debug/net10.0/30 - Recursive Potency.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/30 - Recursive Potency/obj/Debug/net10.0/30 - Recursive Potency.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/30 - Recursive Potency/obj/Debug/net10.0/30 - Recursive Potency.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/30 - Recursive Potency/obj/Debug/net10.0/refint/30 - Recursive Potency.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/30 - Recursive Potency/obj/Debug/net10.0/30 - Recursive Potency.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/30 - Recursive Potency/obj/Debug/net10.0/30 - Recursive Potency.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/30 - Recursive Potency/obj/Debug/net10.0/ref/30 - Recursive Potency.dll

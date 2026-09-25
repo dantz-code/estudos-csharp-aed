@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Operações com Vetor e Círculo/14 -.csproj",
+      "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Array and Circle Operations/14 -.csproj",
       "projectName": "14 -",
-      "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Operações com Vetor e Círculo/14 -.csproj",
+      "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Array and Circle Operations/14 -.csproj",
       "packagesPath": "/home/danton/.nuget/packages/",
-      "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Operações com Vetor e Círculo/obj/",
+      "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/14 - Array and Circle Operations/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/danton/.nuget/NuGet/NuGet.Config"

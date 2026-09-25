@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/21 - Testa Palíndromo.csproj": {}
+    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Palindrome Check/21 - Testa Palíndromo.csproj": {}
   },
   "projects": {
-    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/21 - Testa Palíndromo.csproj": {
+    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Palindrome Check/21 - Testa Palíndromo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/21 - Testa Palíndromo.csproj",
+        "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Palindrome Check/21 - Testa Palíndromo.csproj",
         "projectName": "21 - Testa Palíndromo",
-        "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/21 - Testa Palíndromo.csproj",
+        "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Palindrome Check/21 - Testa Palíndromo.csproj",
         "packagesPath": "/home/danton/.nuget/packages/",
-        "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Testa Palíndromo/obj/",
+        "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/21 - Palindrome Check/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/danton/.nuget/NuGet/NuGet.Config"

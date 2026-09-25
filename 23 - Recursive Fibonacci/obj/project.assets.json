@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/23 - Fibonacci Recursiva/23 - Fibonacci Recursiva.csproj",
+      "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/23 - Recursive Fibonacci/23 - Fibonacci Recursiva.csproj",
       "projectName": "23 - Fibonacci Recursiva",
-      "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/23 - Fibonacci Recursiva/23 - Fibonacci Recursiva.csproj",
+      "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/23 - Recursive Fibonacci/23 - Fibonacci Recursiva.csproj",
       "packagesPath": "/home/danton/.nuget/packages/",
-      "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/23 - Fibonacci Recursiva/obj/",
+      "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/23 - Recursive Fibonacci/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/danton/.nuget/NuGet/NuGet.Config"

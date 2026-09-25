@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/15 -.csproj": {}
+    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Counting from 1 to 10 with While/15 -.csproj": {}
   },
   "projects": {
-    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/15 -.csproj": {
+    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Counting from 1 to 10 with While/15 -.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/15 -.csproj",
+        "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Counting from 1 to 10 with While/15 -.csproj",
         "projectName": "15 -",
-        "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/15 -.csproj",
+        "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Counting from 1 to 10 with While/15 -.csproj",
         "packagesPath": "/home/danton/.nuget/packages/",
-        "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Contagem de 1 a 10 com While/obj/",
+        "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/15 - Counting from 1 to 10 with While/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/danton/.nuget/NuGet/NuGet.Config"

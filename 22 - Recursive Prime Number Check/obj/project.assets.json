@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/22 - Número Primo Recursivo/22 - Número Primo Recursivo.csproj",
+      "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/22 - Recursive Prime Number Check/22 - Número Primo Recursivo.csproj",
       "projectName": "22 - Número Primo Recursivo",
-      "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/22 - Número Primo Recursivo/22 - Número Primo Recursivo.csproj",
+      "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/22 - Recursive Prime Number Check/22 - Número Primo Recursivo.csproj",
       "packagesPath": "/home/danton/.nuget/packages/",
-      "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/22 - Número Primo Recursivo/obj/",
+      "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/22 - Recursive Prime Number Check/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/danton/.nuget/NuGet/NuGet.Config"

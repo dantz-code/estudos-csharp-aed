@@ -1,0 +1,15 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/31 - Recursive Bigger Pair/bin/Debug/net10.0/31 - Recursive Bigger Pair
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/31 - Recursive Bigger Pair/bin/Debug/net10.0/31 - Recursive Bigger Pair.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/31 - Recursive Bigger Pair/bin/Debug/net10.0/31 - Recursive Bigger Pair.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/31 - Recursive Bigger Pair/bin/Debug/net10.0/31 - Recursive Bigger Pair.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/31 - Recursive Bigger Pair/bin/Debug/net10.0/31 - Recursive Bigger Pair.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/31 - Recursive Bigger Pair/obj/Debug/net10.0/31 - Recursive Bigger Pair.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/31 - Recursive Bigger Pair/obj/Debug/net10.0/31 - Recursive Bigger Pair.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/31 - Recursive Bigger Pair/obj/Debug/net10.0/31 - Recursive Bigger Pair.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/31 - Recursive Bigger Pair/obj/Debug/net10.0/31 - Recursive Bigger Pair.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/31 - Recursive Bigger Pair/obj/Debug/net10.0/31 - Recursive Bigger Pair.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/31 - Recursive Bigger Pair/obj/Debug/net10.0/31 - Recursive Bigger Pair.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/31 - Recursive Bigger Pair/obj/Debug/net10.0/refint/31 - Recursive Bigger Pair.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/31 - Recursive Bigger Pair/obj/Debug/net10.0/31 - Recursive Bigger Pair.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/31 - Recursive Bigger Pair/obj/Debug/net10.0/31 - Recursive Bigger Pair.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/31 - Recursive Bigger Pair/obj/Debug/net10.0/ref/31 - Recursive Bigger Pair.dll

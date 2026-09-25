@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/Prática 11.csproj": {}
+    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Class and Student Registration/Prática 11.csproj": {}
   },
   "projects": {
-    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/Prática 11.csproj": {
+    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Class and Student Registration/Prática 11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/Prática 11.csproj",
+        "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Class and Student Registration/Prática 11.csproj",
         "projectName": "Prática 11",
-        "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/Prática 11.csproj",
+        "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Class and Student Registration/Prática 11.csproj",
         "packagesPath": "/home/danton/.nuget/packages/",
-        "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Cadastro de Turmas e Alunos/obj/",
+        "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/11 - Class and Student Registration/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/danton/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/24 - /24 -.csproj": {}
+    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/24 - Recursive Divisor Count/24 -.csproj": {}
   },
   "projects": {
-    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/24 - /24 -.csproj": {
+    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/24 - Recursive Divisor Count/24 -.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/24 - /24 -.csproj",
+        "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/24 - Recursive Divisor Count/24 -.csproj",
         "projectName": "24 -",
-        "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/24 - /24 -.csproj",
+        "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/24 - Recursive Divisor Count/24 -.csproj",
         "packagesPath": "/home/danton/.nuget/packages/",
-        "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/24 - /obj/",
+        "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/24 - Recursive Divisor Count/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/danton/.nuget/NuGet/NuGet.Config"

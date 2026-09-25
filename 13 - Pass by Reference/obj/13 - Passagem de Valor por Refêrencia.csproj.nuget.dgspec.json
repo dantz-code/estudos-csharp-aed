@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/13 - Passagem de Valor por Refêrencia.csproj": {}
+    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Pass by Reference/13 - Passagem de Valor por Refêrencia.csproj": {}
   },
   "projects": {
-    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/13 - Passagem de Valor por Refêrencia.csproj": {
+    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Pass by Reference/13 - Passagem de Valor por Refêrencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/13 - Passagem de Valor por Refêrencia.csproj",
+        "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Pass by Reference/13 - Passagem de Valor por Refêrencia.csproj",
         "projectName": "13 - Passagem de Valor por Refêrencia",
-        "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/13 - Passagem de Valor por Refêrencia.csproj",
+        "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Pass by Reference/13 - Passagem de Valor por Refêrencia.csproj",
         "packagesPath": "/home/danton/.nuget/packages/",
-        "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Passagem de Valor por Refêrencia/obj/",
+        "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/13 - Pass by Reference/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/danton/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/29 - Conta Bancaria/bin/Debug/net10.0/29 - Conta Bancaria
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/29 - Conta Bancaria/bin/Debug/net10.0/29 - Conta Bancaria.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/29 - Conta Bancaria/bin/Debug/net10.0/29 - Conta Bancaria.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/29 - Conta Bancaria/bin/Debug/net10.0/29 - Conta Bancaria.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/29 - Conta Bancaria/bin/Debug/net10.0/29 - Conta Bancaria.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/29 - Conta Bancaria/obj/Debug/net10.0/29 - Conta Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/29 - Conta Bancaria/obj/Debug/net10.0/29 - Conta Bancaria.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/29 - Conta Bancaria/obj/Debug/net10.0/29 - Conta Bancaria.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/29 - Conta Bancaria/obj/Debug/net10.0/29 - Conta Bancaria.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/29 - Conta Bancaria/obj/Debug/net10.0/29 - Conta Bancaria.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/29 - Conta Bancaria/obj/Debug/net10.0/29 - Conta Bancaria.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/29 - Conta Bancaria/obj/Debug/net10.0/refint/29 - Conta Bancaria.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/29 - Conta Bancaria/obj/Debug/net10.0/29 - Conta Bancaria.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/29 - Conta Bancaria/obj/Debug/net10.0/29 - Conta Bancaria.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/29 - Conta Bancaria/obj/Debug/net10.0/ref/29 - Conta Bancaria.dll

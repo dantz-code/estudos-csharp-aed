@@ -1,0 +1,30 @@
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Recursive Fibonacci/bin/Debug/net10.0/33 - Recursive Fibonacci
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Recursive Fibonacci/bin/Debug/net10.0/33 - Recursive Fibonacci.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Recursive Fibonacci/bin/Debug/net10.0/33 - Recursive Fibonacci.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Recursive Fibonacci/bin/Debug/net10.0/33 - Recursive Fibonacci.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Recursive Fibonacci/bin/Debug/net10.0/33 - Recursive Fibonacci.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Recursive Fibonacci/obj/Debug/net10.0/33 - Recursive Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Recursive Fibonacci/obj/Debug/net10.0/33 - Recursive Fibonacci.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Recursive Fibonacci/obj/Debug/net10.0/33 - Recursive Fibonacci.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Recursive Fibonacci/obj/Debug/net10.0/33 - Recursive Fibonacci.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Recursive Fibonacci/obj/Debug/net10.0/33 - Recursive Fibonacci.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Recursive Fibonacci/obj/Debug/net10.0/33 - Recursive Fibonacci.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Recursive Fibonacci/obj/Debug/net10.0/refint/33 - Recursive Fibonacci.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Recursive Fibonacci/obj/Debug/net10.0/33 - Recursive Fibonacci.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Recursive Fibonacci/obj/Debug/net10.0/33 - Recursive Fibonacci.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Recursive Fibonacci/obj/Debug/net10.0/ref/33 - Recursive Fibonacci.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Training Abstract Struct's Type/bin/Debug/net10.0/33 - Recursive Fibonacci
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Training Abstract Struct's Type/bin/Debug/net10.0/33 - Recursive Fibonacci.deps.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Training Abstract Struct's Type/bin/Debug/net10.0/33 - Recursive Fibonacci.runtimeconfig.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Training Abstract Struct's Type/bin/Debug/net10.0/33 - Recursive Fibonacci.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Training Abstract Struct's Type/bin/Debug/net10.0/33 - Recursive Fibonacci.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Training Abstract Struct's Type/obj/Debug/net10.0/33 - Recursive Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Training Abstract Struct's Type/obj/Debug/net10.0/33 - Recursive Fibonacci.AssemblyInfoInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Training Abstract Struct's Type/obj/Debug/net10.0/33 - Recursive Fibonacci.AssemblyInfo.cs
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Training Abstract Struct's Type/obj/Debug/net10.0/33 - Recursive Fibonacci.csproj.CoreCompileInputs.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Training Abstract Struct's Type/obj/Debug/net10.0/33 - Recursive Fibonacci.sourcelink.json
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Training Abstract Struct's Type/obj/Debug/net10.0/33 - Recursive Fibonacci.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Training Abstract Struct's Type/obj/Debug/net10.0/refint/33 - Recursive Fibonacci.dll
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Training Abstract Struct's Type/obj/Debug/net10.0/33 - Recursive Fibonacci.pdb
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Training Abstract Struct's Type/obj/Debug/net10.0/33 - Recursive Fibonacci.genruntimeconfig.cache
+/home/danton/estudos-csharp-aed/estudos-csharp-aed/33 - Training Abstract Struct's Type/obj/Debug/net10.0/ref/33 - Recursive Fibonacci.dll

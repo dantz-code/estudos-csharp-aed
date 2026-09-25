@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/05 - Estatísticas Salariais por Sexo/Prática 5.csproj",
+      "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/05 - Salary Statistics by Sex/Prática 5.csproj",
       "projectName": "Prática 5",
-      "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/05 - Estatísticas Salariais por Sexo/Prática 5.csproj",
+      "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/05 - Salary Statistics by Sex/Prática 5.csproj",
       "packagesPath": "/home/danton/.nuget/packages/",
-      "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/05 - Estatísticas Salariais por Sexo/obj/",
+      "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/05 - Salary Statistics by Sex/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/danton/.nuget/NuGet/NuGet.Config"

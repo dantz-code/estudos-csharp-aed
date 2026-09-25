@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/17 - Soma de 1 a 10 Recursiva/17 - Soma de 1 a 10 Recursiva.csproj": {}
+    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/17 - Recursive Sum from 1 to 10/17 - Soma de 1 a 10 Recursiva.csproj": {}
   },
   "projects": {
-    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/17 - Soma de 1 a 10 Recursiva/17 - Soma de 1 a 10 Recursiva.csproj": {
+    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/17 - Recursive Sum from 1 to 10/17 - Soma de 1 a 10 Recursiva.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/17 - Soma de 1 a 10 Recursiva/17 - Soma de 1 a 10 Recursiva.csproj",
+        "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/17 - Recursive Sum from 1 to 10/17 - Soma de 1 a 10 Recursiva.csproj",
         "projectName": "17 - Soma de 1 a 10 Recursiva",
-        "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/17 - Soma de 1 a 10 Recursiva/17 - Soma de 1 a 10 Recursiva.csproj",
+        "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/17 - Recursive Sum from 1 to 10/17 - Soma de 1 a 10 Recursiva.csproj",
         "packagesPath": "/home/danton/.nuget/packages/",
-        "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/17 - Soma de 1 a 10 Recursiva/obj/",
+        "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/17 - Recursive Sum from 1 to 10/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/danton/.nuget/NuGet/NuGet.Config"

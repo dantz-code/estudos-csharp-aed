@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/01 - Maior de Três Números/Prática 1.csproj",
+      "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/01 - Largest of Three Numbers/Prática 1.csproj",
       "projectName": "Prática 1",
-      "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/01 - Maior de Três Números/Prática 1.csproj",
+      "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/01 - Largest of Three Numbers/Prática 1.csproj",
       "packagesPath": "/home/danton/.nuget/packages/",
-      "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/01 - Maior de Três Números/obj/",
+      "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/01 - Largest of Three Numbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/danton/.nuget/NuGet/NuGet.Config"

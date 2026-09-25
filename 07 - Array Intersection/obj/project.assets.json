@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/07 - Interseção de Vetores/Prática 7.csproj",
+      "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/07 - Array Intersection/Prática 7.csproj",
       "projectName": "Prática 7",
-      "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/07 - Interseção de Vetores/Prática 7.csproj",
+      "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/07 - Array Intersection/Prática 7.csproj",
       "packagesPath": "/home/danton/.nuget/packages/",
-      "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/07 - Interseção de Vetores/obj/",
+      "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/07 - Array Intersection/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/danton/.nuget/NuGet/NuGet.Config"

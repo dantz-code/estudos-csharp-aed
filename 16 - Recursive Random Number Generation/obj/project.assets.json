@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Sorteio Recursivo de Números/16 -.csproj",
+      "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Recursive Random Number Generation/16 -.csproj",
       "projectName": "16 -",
-      "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Sorteio Recursivo de Números/16 -.csproj",
+      "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Recursive Random Number Generation/16 -.csproj",
       "packagesPath": "/home/danton/.nuget/packages/",
-      "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Sorteio Recursivo de Números/obj/",
+      "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/16 - Recursive Random Number Generation/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/danton/.nuget/NuGet/NuGet.Config"

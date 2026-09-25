@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/20 -.csproj": {}
+    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Recursive Array Display in Ascending and Descending Order/20 -.csproj": {}
   },
   "projects": {
-    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/20 -.csproj": {
+    "/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Recursive Array Display in Ascending and Descending Order/20 -.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/20 -.csproj",
+        "projectUniqueName": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Recursive Array Display in Ascending and Descending Order/20 -.csproj",
         "projectName": "20 -",
-        "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/20 -.csproj",
+        "projectPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Recursive Array Display in Ascending and Descending Order/20 -.csproj",
         "packagesPath": "/home/danton/.nuget/packages/",
-        "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Exibição Recursiva de Vetor em Ordem Crescente e Decrescente/obj/",
+        "outputPath": "/home/danton/estudos-csharp-aed/estudos-csharp-aed/20 - Recursive Array Display in Ascending and Descending Order/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/danton/.nuget/NuGet/NuGet.Config"
